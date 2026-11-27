@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import plotly  
 import openpyxl  
 
 st.set_page_config(page_title="dados transporte", layout="wide", page_icon="📊")

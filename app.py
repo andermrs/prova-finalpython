@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import openpyxl  
 
 st.set_page_config(page_title="dados transporte", layout="wide", page_icon="📊")
 st.title("dados transporte")
